@@ -1,0 +1,121 @@
+
+
+
+
+
+ [
+      {
+          "name": "group-level-2-2",
+          "description": "sample",
+          "Number of Subgroups": 3,
+          "Average Count": 76,
+          "count": 228,
+          "Number of subEvents": "N/A",
+          "subgroups": [
+              {
+                  "name": "Group1",
+                  "description": "sample",
+                  "Number of Subgroups": 2,
+                  "Average Count": 45,
+                  "count": 89,
+                  "subgroups": [
+                      {
+                          "Average Count": 25,
+                          "count": 50,
+                          "Event Name": "Demo-event-2",
+                          "Number of subEvents": 2
+                      },
+                      {
+                          "Average Count": 19.5,
+                          "count": 39,
+                          "Event Name": "Demo-event-1",
+                          "Number of subEvents": 2
+                      }
+                  ]
+              },
+              {
+                  "name": "Group2",
+                  "description": "sample",
+                  "Number of Subgroups": 2,
+                  "Average Count": 45,
+                  "count": 89,
+                  "subgroups": [
+                      {
+                          "Average Count": 25,
+                          "count": 50,
+                          "Event Name": "Demo-event-2",
+                          "Number of subEvents": 2
+                      },
+                      {
+                          "Average Count": 19.5,
+                          "count": 39,
+                          "Event Name": "Demo-event-1",
+                          "Number of subEvents": 2
+                      }
+                  ]
+              },
+              {
+                  "name": "group3",
+                  "description": "sample",
+                  "Number of Subgroups": 1,
+                  "Average Count": 50,
+                  "count": 50,
+                  "subgroups": [
+                      {
+                          "Average Count": 25,
+                          "count": 50,
+                          "Event Name": "Demo-event-2",
+                          "Number of subEvents": 2
+                      }
+                  ]
+              }
+          ]
+      },
+      {
+          "name": "Group-level-2-1",
+          "description": "sample",
+          "count": 0,
+          "Number of Subgroups": 2,
+          "Average Count": 16,
+          "subgroups": [
+              {
+                  "name": "Group1",
+                  "description": "sample",
+                  "count": 0,
+                  "subgroups": [
+                      {
+                          "Average Count": 25,
+                          "count": 50,
+                          "Event Name": "Demo-event-2",
+                          "Number of subEvents": 2
+                      },
+                      {
+                          "Average Count": 19.5,
+                          "count": 39,
+                          "Event Name": "Demo-event-1",
+                          "Number of subEvents": 2
+                      }
+                  ]
+              },
+              {
+                  "name": "Group2",
+                  "description": "sample",
+                  "count": 0,
+                  "subgroups": [
+                      {
+                          "Average Count": 25,
+                          "count": 50,
+                          "Event Name": "Demo-event-2",
+                          "Number of subEvents": 2
+                      },
+                      {
+                          "Average Count": 19.5,
+                          "count": 39,
+                          "Event Name": "Demo-event-1",
+                          "Number of subEvents": 2
+                      }
+                  ]
+              }
+          ]
+      }
+  ]
